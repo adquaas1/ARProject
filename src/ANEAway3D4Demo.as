@@ -127,6 +127,7 @@ package
             var scy:Number = camHeight / srcHeight;
 			cameraMatrix = new Matrix(scx, 0, 0, scy);
 			
+			// buffer
 			buffer = new BitmapData(srcWidth, srcHeight, false, 0x00);
 			cameraBuffer = new BitmapData(camWidth, camHeight, false, 0x0);
 			
