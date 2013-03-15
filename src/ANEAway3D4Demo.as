@@ -77,7 +77,7 @@ package
         public var srcHeight:int = 480;
         public var deviceCam:Camera;
         
-		
+		// test
 		public function ANEAway3D4Demo() 
 		{
             if (stage)
