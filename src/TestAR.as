@@ -14,7 +14,7 @@ package
 		protected function setting(event:Event):void
 		{
 			// TODO Auto-generated method stub
-			
+			trace("aaa");
 		}
 	}
 }
