@@ -15,6 +15,7 @@ package
 		{
 			// TODO Auto-generated method stub
 			trace("aaa");
+			trace("bbb");
 		}
 	}
 }
