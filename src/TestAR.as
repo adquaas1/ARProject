@@ -17,6 +17,7 @@ package
 			trace("aaa");
 			trace("bbb");
 			trace("ccc");
+			trace("ddd");
 		}
 	}
 }
