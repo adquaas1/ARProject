@@ -33,7 +33,7 @@ package
 	
 	
 	/**
-	 * @author Eugene Zatepyakin..
+	 * @author Eugene Zatepyakin
 	 */
 	[SWF(frameRate='30',backgroundColor='0xFFFFFF')]
 	public final class ANEAway3D4Demo extends Sprite 
