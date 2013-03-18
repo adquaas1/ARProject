@@ -15,6 +15,7 @@ package
 			stage.scaleMode = StageScaleMode.NO_SCALE;
 			trace("xxx");
 			trace("xxx");
+			trace("xxx");
 		}
 	}
 }
