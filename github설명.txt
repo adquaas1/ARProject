@@ -1,0 +1,11 @@
+github.com
+
+프로그램 상단에 tools>options에서 기본 디렉터리를 지정해준다.
+
+
+프로젝트를 지우는법: 사이트 > 프로젝트 > setting >Danger Zone
+
+프로젝트를 복사한다 github > 프로젝트이름에 있는 clone버튼 클릭
+
+
+http://zoltanb.co.uk/how-to-setup-git-on-flash-builder-4-5/
